@@ -4,6 +4,7 @@ adafruit motor shield magnet stimulation program
 made for the arduino
 features millis() and changeable variables to create different stimulation lengths of a magnetic stimulation rig
 
+
 repository includes:
 motorstim_breadboard - for rig built on breadboard connected parts
 
